@@ -1,0 +1,24 @@
+/* this css file is done by me :) */
+body {
+  background-color: beige;
+}
+
+h1 {
+  text-align: center;
+}
+
+.text {
+  color: tomato;
+}
+
+.content {
+  color: gold;
+  background-color: black;
+}
+
+/* this is an example comment in css */
+/* #content {
+  color: #f33;
+  background-color: aquamarine;
+  text-transform: uppercase;
+} */
