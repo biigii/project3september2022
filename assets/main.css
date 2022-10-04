@@ -1,34 +1,7 @@
 .important {
-  color: red;
   font-weight: bold;
-  text-decoration: underline;
 }
 
-.text-block {
-  background-color: pink;
-}
-
-a {
-  /* background-color: red; */
-  display: block;
-}
-
-p {
-  display: inline;
-}
-
-.links {
-  background-color: red;
-}
-
-.paragraphs {
-  background-color: lightblue;
-}
-
-h1 {
-  display: inline;
-}
-
-h3 {
-  display: inline;
+.text {
+  font-style: italic;
 }
