@@ -1,7 +1,5 @@
-.important {
-  font-weight: bold;
-}
-
-.text {
-  font-style: italic;
+h1 {
+  color: green;
+  text-align: center;
+  font-size: 50px;
 }
