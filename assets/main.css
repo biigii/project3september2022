@@ -1,26 +1,34 @@
-/* this css file is done by me :) */
-body {
-  background-color: beige;
+.important {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.text-block {
+  background-color: pink;
+}
+
+a {
+  /* background-color: red; */
+  display: block;
+}
+
+p {
+  display: inline;
+}
+
+.links {
+  background-color: red;
+}
+
+.paragraphs {
+  background-color: lightblue;
 }
 
 h1 {
-  text-align: center;
-  font-size: 40px;
-  font-weight: bold;
+  display: inline;
 }
 
-.text {
-  color: tomato;
+h3 {
+  display: inline;
 }
-
-.content {
-  color: gold;
-  background-color: black;
-}
-
-/* this is an example comment in css */
-/* #content {
-  color: #f33;
-  background-color: aquamarine;
-  text-transform: uppercase;
-} */
